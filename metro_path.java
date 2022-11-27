@@ -16,6 +16,7 @@ public class metro_path {
             default:
                 break;
         }
+        System.out.println("hallo");
         
     }
     
